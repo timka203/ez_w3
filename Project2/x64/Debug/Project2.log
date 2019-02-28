@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(113): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(316): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(325): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(336): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(340): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(347): warning C4101: p: неиспользованная локальная переменная
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(446): warning C4114: множественное использование одного и того же квалификатора типа
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(446): warning C4101: p3: неиспользованная локальная переменная
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(540): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project2.vcxproj -> C:\Users\ПашакуловТ\source\repos\Project2\x64\Debug\Project2.exe
